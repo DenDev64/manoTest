@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">keyboard</string>
+    
+    <string name="hint1">AED</string>
+    <string name="hint2">0</string>
+    <string name="hint3">.</string>
+    <string name="hint4">00</string>
+</resources>
